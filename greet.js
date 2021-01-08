@@ -1,7 +1,7 @@
-const greet = () => {
+const greet2 = () => {
     console.log("hello world")
 }
 
-const helloWorld = (name = "World") => {
+const greet = (name = "World") => {
     return `Hello ${name}!`;
   }
